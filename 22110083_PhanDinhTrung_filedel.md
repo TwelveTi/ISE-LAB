@@ -14,7 +14,7 @@
 
 ![Screenshot 2024-09-20 201759](https://github.com/user-attachments/assets/39f8c754-7097-49cb-8652-cedb776c2a28)
 
-- ## đặt 2 điểm break tại `0x0804843` và `0x0804846b` để xem sự khác biệt khi ta chạy chương trình
+- ## đặt 2 điểm break tại `0x0804843e` và `0x0804846b` để xem sự khác biệt khi ta chạy chương trình
 
 ![Screenshot 2024-09-20 201855](https://github.com/user-attachments/assets/c36ce359-4bee-4c91-aac6-52da0931474a)
 
